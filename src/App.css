@@ -1,6 +1,26 @@
 .App {
   text-align: center;
 }
+.app__form{
+  padding: 20px;
+  position: fixed;
+  bottom: 0;
+  z-index: 1;
+  background-color: beige;
+  width: 90%;
+  margin: 20px;
+}
+.app_formcontrol{
+  display: flex !important;
+  flex-direction: row !important;
+
+}
+.input_css{
+  flex: 1;
+}
+.icon_button{
+  flex: 0;
+}
 
 .App-logo {
   height: 40vmin;
