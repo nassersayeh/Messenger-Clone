@@ -1,4 +1,9 @@
-#Link for the App 
+# Description :
+This App works like messenger application , its allow to the user to enter his/her name to enter the chat, the user can send message and show to all 
+people in the chat, if the user close the chat, he can login again in the same name, if he enter any other name he will talk with people in new name.
+
+
+# Link for the App 
 https://facebook-messanger-8e78a.web.app/?fbclid=IwAR1musErlie0LrfYL14H1f6QRMU0WGJWKv443JNkSnSGmwSuqGeXKzyYydE
 
 # Getting Started with Create React App
